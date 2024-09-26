@@ -1,5 +1,5 @@
-# IDEA9103 Quiz 8**
-## Coco LI  540413797  keli0103**
+# IDEA9103 Quiz 8
+## Coco LI  540413797  keli0103
 
 ### Part 1: Imaging Technique Inspiration
 The art of Piet Mondrian, particularly his use of **neoplasticism** and **geometric** abstraction, serves as a major inspiration for my project. His use of bold primary colors, straight lines, and simple geometric forms creates a sense of **order and rhythm**. I aim to incorporate these elements into my project by using a grid-like structure and a limited color palette to convey a **harmonious, dynamic visual composition**. Mondrian's style is effective for exploring structure, balance, and movement, aligning well with the goals of the assignment.
